@@ -48,6 +48,17 @@
 ![image](https://user-images.githubusercontent.com/84906961/159139775-2e083d1c-636b-49ff-aff5-81687fb7112c.png)
 ![image](https://user-images.githubusercontent.com/84906961/159139784-91d285aa-5cd3-4682-9a1a-dcc848fa2a2a.png)
 
+대댓글 달기
+![image](https://user-images.githubusercontent.com/84906961/159139810-48370ef5-90b6-4357-9b05-727a68c44117.png)
+![image](https://user-images.githubusercontent.com/84906961/159139829-1c951dfa-6b74-434b-a688-98a7218c878e.png)
+![image](https://user-images.githubusercontent.com/84906961/159139830-4e1091a0-9d0c-436c-833f-754347540c09.png)
+
+댓글 삭제
+![image](https://user-images.githubusercontent.com/84906961/159139834-632b28e2-ea0d-451b-b017-1a9b96240cd5.png)
+![image](https://user-images.githubusercontent.com/84906961/159139836-1edb2837-99ce-4969-9b66-aa26b74440e0.png)
+
+
+
 
 
 
