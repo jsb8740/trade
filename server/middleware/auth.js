@@ -4,9 +4,8 @@ const { User } = require("../models/User");
 let auth = (req, res, next) => {
 
     //클라이언트 쿠키에서 token을 가져옴
-    console.log(req.cookies)
+    // console.log(req.cookies)
     let token = req.cookies.userAuth;
-
 
     //token을 decode 한후 유저를 찾음
     User.findByToken(token, (err, user) => {
