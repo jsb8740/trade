@@ -45,6 +45,8 @@
 ![image](https://user-images.githubusercontent.com/84906961/159139750-3ac42e88-948b-4dca-b644-c70aadda62cc.png)
 
 댓글 수정
+![image](https://user-images.githubusercontent.com/84906961/159139775-2e083d1c-636b-49ff-aff5-81687fb7112c.png)
+![image](https://user-images.githubusercontent.com/84906961/159139784-91d285aa-5cd3-4682-9a1a-dcc848fa2a2a.png)
 
 
 
