@@ -36,5 +36,18 @@
 ![image](https://user-images.githubusercontent.com/84906961/159139644-3ed2d0ad-c594-4746-94f9-75344dcd629c.png)
 
 글을 삭제
+
 ![image](https://user-images.githubusercontent.com/84906961/159139719-8d4c3536-ed76-4c46-90aa-543bdff779ea.png)
+
+댓글 달기
+
+![image](https://user-images.githubusercontent.com/84906961/159139739-2701fca1-69cb-460a-b9ab-73151701e290.png)
+![image](https://user-images.githubusercontent.com/84906961/159139750-3ac42e88-948b-4dca-b644-c70aadda62cc.png)
+
+댓글 수정
+
+
+
+
+
 
