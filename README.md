@@ -4,7 +4,8 @@
 
 # 이미지 #
 메인화면 
-![화면 캡처 2022-03-20 064014](https://user-images.githubusercontent.com/84906961/159139378-f6d3e96f-aa50-4c1c-9511-09647b704adc.png)
+![image](https://user-images.githubusercontent.com/84906961/159139513-193ad0e3-3f3a-4c45-b543-f0100c7a8563.png)
+
 
 게시글에 들어갔을 때
 
