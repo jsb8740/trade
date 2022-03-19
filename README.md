@@ -36,3 +36,5 @@
 ![image](https://user-images.githubusercontent.com/84906961/159139644-3ed2d0ad-c594-4746-94f9-75344dcd629c.png)
 
 글을 삭제
+![image](https://user-images.githubusercontent.com/84906961/159139719-8d4c3536-ed76-4c46-90aa-543bdff779ea.png)
+
