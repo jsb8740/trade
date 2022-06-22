@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jsb8740/trade.git/static/css/main.e6c13ad2.css",
+    "main.js": "/jsb8740/trade.git/static/js/main.f5189e41.js",
+    "index.html": "/jsb8740/trade.git/index.html",
+    "main.e6c13ad2.css.map": "/jsb8740/trade.git/static/css/main.e6c13ad2.css.map",
+    "main.f5189e41.js.map": "/jsb8740/trade.git/static/js/main.f5189e41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f5189e41.js"
+  ]
+}
