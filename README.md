@@ -3,7 +3,7 @@
 댓글기능과 이미지를 추가했음 
 react router dom을 5에서 6으로 올렸음
 
-# 파일구조 #
+### 파일구조 ###
 ```
 client
 📦src
@@ -49,7 +49,6 @@ client
  ┣ 📜index.js
  ┗ 📜setupProxy.js
 
-
 📦server
  ┣ 📂config
  ┃ ┗ 📜dev.js
@@ -67,12 +66,10 @@ client
  ┃ ┗ 📜user.js
  ┣ 📜.gitignore
  ┣ 📜index.js
-
-
 ```
 
 
-# 이미지 #
+### 이미지 ###
 메인화면 
 ![image](https://user-images.githubusercontent.com/84906961/159139513-193ad0e3-3f3a-4c45-b543-f0100c7a8563.png)
 
@@ -93,7 +90,7 @@ client
 쓰고 난뒤
 
 ![image](https://user-images.githubusercontent.com/84906961/159139576-c5cc2937-8e1f-4ac9-b87b-607232bcf3b3.png)
-
+<img src="https://user-images.githubusercontent.com/84906961/159139576-c5cc2937-8e1f-4ac9-b87b-607232bcf3b3.png" width="400" height="200/>
 
 글을 수정
 
