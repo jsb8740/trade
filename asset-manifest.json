@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/jsb8740/trade.git/static/css/main.e6c13ad2.css",
-    "main.js": "/jsb8740/trade.git/static/js/main.f5189e41.js",
-    "index.html": "/jsb8740/trade.git/index.html",
-    "main.e6c13ad2.css.map": "/jsb8740/trade.git/static/css/main.e6c13ad2.css.map",
-    "main.f5189e41.js.map": "/jsb8740/trade.git/static/js/main.f5189e41.js.map"
+    "main.css": "/jsb8740/trade.git/test/static/css/main.e6c13ad2.css",
+    "main.js": "/jsb8740/trade.git/test/static/js/main.580efc5b.js",
+    "index.html": "/jsb8740/trade.git/test/index.html",
+    "main.e6c13ad2.css.map": "/jsb8740/trade.git/test/static/css/main.e6c13ad2.css.map",
+    "main.580efc5b.js.map": "/jsb8740/trade.git/test/static/js/main.580efc5b.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.f5189e41.js"
+    "static/js/main.580efc5b.js"
   ]
 }
