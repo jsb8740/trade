@@ -1,14 +1,16 @@
-## 거래게시판 ##
+## 거래게시판 
 기존에 만들었던 게시판의 v2          
 댓글기능과 이미지를 추가했음          
 react router dom을 5에서 6으로 올렸음 
 
-* * *
 
-#### 사용한 기술 ####
+
+
+#### 사용한 기술 
 react, redux, nodejs-express, mongoose, styled-components
 
-* * *
+
+
 
 #### 파일구조 ####
 ```
@@ -75,7 +77,9 @@ client
  ┣ 📜index.js
 ```
 
-* * *
+
+
+
 
 #### 기능 설명 ####
 >메인화면 
