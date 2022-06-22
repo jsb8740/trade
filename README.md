@@ -1,8 +1,76 @@
-# trade
 ## 거래게시판 ##
 기존에 만들었던 게시판의 v2
 댓글기능과 이미지를 추가했음 
 react router dom을 5에서 6으로 올렸음
+
+# 파일구조 #
+```
+client
+📦src
+ ┣ 📂component
+ ┃ ┣ 📂Comment
+ ┃ ┃ ┣ 📜ModifyComment.js
+ ┃ ┃ ┣ 📜ViewComment.js
+ ┃ ┃ ┗ 📜WriteComment.js
+ ┃ ┣ 📂LandingPage
+ ┃ ┃ ┣ 📂Board
+ ┃ ┃ ┃ ┣ 📜Board.js
+ ┃ ┃ ┃ ┣ 📜Pagination.js
+ ┃ ┃ ┃ ┣ 📜Post.js
+ ┃ ┃ ┃ ┗ 📜ViewPost.js
+ ┃ ┃ ┗ 📜LandingPage.js
+ ┃ ┣ 📂LoginPage
+ ┃ ┃ ┗ 📜LoginPage.js
+ ┃ ┣ 📂ModifyPage
+ ┃ ┃ ┗ 📜ModifyPost.js
+ ┃ ┣ 📂RegisterPage
+ ┃ ┃ ┗ 📜RegisterPage.js
+ ┃ ┣ 📂SearchPage
+ ┃ ┃ ┣ 📜SearchBox.js
+ ┃ ┃ ┗ 📜SearchPage.js
+ ┃ ┗ 📂WritePage
+ ┃ ┃ ┗ 📜WritePage.js
+ ┣ 📂hoc
+ ┃ ┗ 📜auth.js
+ ┣ 📂styled
+ ┃ ┗ 📜theme.js
+ ┣ 📂_actions
+ ┃ ┣ 📜comment_action.js
+ ┃ ┣ 📜post_action.js
+ ┃ ┣ 📜types.js
+ ┃ ┗ 📜user_action.js
+ ┣ 📂_reducers
+ ┃ ┣ 📜comment_reducer.js
+ ┃ ┣ 📜index.js
+ ┃ ┣ 📜post_reducer.js
+ ┃ ┗ 📜user_reducer.js
+ ┣ 📜App.js
+ ┣ 📜index.css
+ ┣ 📜index.js
+ ┗ 📜setupProxy.js
+
+
+📦server
+ ┣ 📂config
+ ┃ ┗ 📜dev.js
+ ┣ 📂images
+ ┣ 📂middleware
+ ┃ ┗ 📜auth.js
+ ┣ 📂models
+ ┃ ┣ 📜Comment.js
+ ┃ ┣ 📜File.js
+ ┃ ┣ 📜Post.js
+ ┃ ┗ 📜User.js
+ ┣ 📂routes
+ ┃ ┣ 📜comment.js
+ ┃ ┣ 📜post.js
+ ┃ ┗ 📜user.js
+ ┣ 📜.gitignore
+ ┣ 📜index.js
+
+
+```
+
 
 # 이미지 #
 메인화면 
