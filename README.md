@@ -72,7 +72,7 @@ client
 ### 이미지 ###
 메인화면 
 ![image](https://user-images.githubusercontent.com/84906961/159139513-193ad0e3-3f3a-4c45-b543-f0100c7a8563.png)
-<img src="[/img/myImg.png](https://user-images.githubusercontent.com/84906961/159139513-193ad0e3-3f3a-4c45-b543-f0100c7a8563.png)" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/84906961/159139513-193ad0e3-3f3a-4c45-b543-f0100c7a8563.png" width="300" height="300">
 
 
 게시글에 들어갔을 때
