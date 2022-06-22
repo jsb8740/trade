@@ -92,7 +92,8 @@ router.post('/deletePost', SeverimgDelete, dbImgDelete, (req, res) => {
     }) 
 })
 ```
-이 부분에서 server
+이 부분은 post를 삭제하고 서버의 이미지를 삭제하고 그다음에 db의 이미지를 삭제하는 것인데
+db의 이미지를 삭제하는 부분에서 자꾸만 에러가 났다. db에서 찾을수 없다고 나와서
 
 ```javascript
 const dbImgDelete = (req, res, next) => {
@@ -108,6 +109,8 @@ const dbImgDelete = (req, res, next) => {
     next()
 }
 ```
+새로운 db에 imgDelete를 추가해서 
+
 
 ## 이미지 ##
 메인화면<br>
