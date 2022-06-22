@@ -79,9 +79,35 @@ client
  ┣ 📜index.js
 ```
 
+## 문제가 된곳 ##
 
+```javascript
+router.post('/deletePost', SeverimgDelete, dbImgDelete, (req, res) => {
+    // console.log(req.body)
+    const filter = {_id: req.body.postId}
+    Post.deleteOne(filter, function(err) {
+        if(err) return res.status(400).json({postDelete:false, err})
 
+        return res.status(200).json({postDelete: true})
+    }) 
+})
+```
+이 부분에서 server
 
+```javascript
+const dbImgDelete = (req, res, next) => {
+    console.log(req.body)
+    for(var i=0; i<req.body.delete_filesId.length; i++) {
+        const filter = {_id: req.body.delete_filesId[i]}
+        //console.log(filter)
+        File.findOneAndUpdate(filter, {isDeleted: true}, function(err) {
+            if(err) return res.status(400).json({imgDelete:false, err})
+        })
+    }
+    
+    next()
+}
+```
 
 ## 이미지 ##
 메인화면<br>
